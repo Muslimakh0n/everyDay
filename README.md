@@ -1,3 +1,3 @@
 # everyDay
-count down
+Count Down
 # app from movie
